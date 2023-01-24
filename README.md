@@ -7,7 +7,7 @@
 
 ### A few insights about my background
 
-- :zap: Quickly build MVPs of web and mobile applications with React stack
-- :watch: Have good skills in peronsal time management
-- :book: Love reading technical literature and Blinkist summaries
-- :100: Writing well-structured code using best practice
+- :cyclone: Result-oriented
+- :mag_right: Have great attention to details
+- :iphone: Love creating pixel-perfect mobile apps
+- :microscope: Writing clear code using best practice
