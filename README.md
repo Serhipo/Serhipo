@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/Jest-8E475B?style=for-the-badge&logo=jest&logoColor=white) ![](https://img.shields.io/badge/Cypress-24262D?style=for-the-badge&logo=cypress&logoColor=white) ![](https://img.shields.io/badge/Postman-E67045?style=for-the-badge&logo=postman&logoColor=white) ![](https://img.shields.io/badge/Trello-3175B4?style=for-the-badge&logo=trello&logoColor=white)
 
-### A few insights about my background
+### The most important insights about me
 
 - :cyclone: Result-oriented
 - :mag_right: Have great attention to details
