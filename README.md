@@ -7,5 +7,5 @@
 
 - :cyclone: Result-oriented
 - :mag_right: Have great attention to details
-- :iphone: Love creating pixel-perfect mobile apps
+- :iphone: Love creating pixel-perfect web apps 
 - :microscope: Writing clear code using best practice
