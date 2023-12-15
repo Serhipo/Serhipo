@@ -25,4 +25,3 @@
 - :cyclone: Passionate about robust back-end development
 - :mag_right: Meticulous in maintaining and scaling applications
 - :gear: Skilled in integrating complex database systems
-- :puzzle_piece: Expertise in containerization and orchestration
